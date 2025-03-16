@@ -4,3 +4,5 @@ jalur belajar divisi netsec
 2. Virtual Box
 3. Linux
 4. Keamanan Jaringan Dasar Lanjutan
+5. Pengaplikasian Dalam Sebuah Project 
+6. ----

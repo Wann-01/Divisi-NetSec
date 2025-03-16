@@ -1,0 +1,6 @@
+jalur belajar divisi netsec 
+
+1. Jaringan Dasar
+2. Virtual Box
+3. Linux
+4. Keamanan Jaringan Dasar Lanjutan
